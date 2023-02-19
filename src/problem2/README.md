@@ -13,6 +13,7 @@ To get started with this project, you will need to have Node.js and npm installe
 ### Deployment
 
 This project is deployed on Vercel at the following URL: https://code-challenge-psi.vercel.app/
+
 Features
 
 * Simple user interface built with React and Chakra UI.
